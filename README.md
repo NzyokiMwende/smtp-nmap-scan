@@ -4,7 +4,7 @@ A simple Python script that scans common SMTP ports (25, 465, 587, 2525) using N
 Installation
 Clone this repository:
 
-git clone https://github.com/your-username/smtp-nmap-scan.git
+git clone https://github.com/nzyoki mwende/smtp-nmap-scan.git
 Install dependencies:
 
 pip install python-nmap
